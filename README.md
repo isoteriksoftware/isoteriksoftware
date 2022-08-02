@@ -28,7 +28,7 @@
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I play games a lot and when I'm not playing one, I'm making one!
 
-[![Linkedin: isoteriksoftware](https://img.shields.io/badge/-ayosol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isoteriksoftware/)](https://www.linkedin.com/in/solomonayodeleo/)
+[![Linkedin: isoteriksoftware](https://img.shields.io/badge/-isoteriksoftware-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isoteriksoftware/)](https://www.linkedin.com/in/isoteriksoftware/)
 [![GitHub isoteriksoftware](https://img.shields.io/github/followers/ayosol?label=follow&style=social)](https://github.com/isoteriksoftware)
 
 **Languages and Tools:**  
