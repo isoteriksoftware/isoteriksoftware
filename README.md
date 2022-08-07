@@ -24,7 +24,7 @@
 - 🌱 I currently work with Flutter, React, JavaScript, Java, Solidity, Node.js, libGDX, Racken etc
 - 👯 I’m looking to collaborate on any interesting mobile project.
 - 💬 Ask me about Full Stack Software Engineering.
-- 📫 How to reach me: [[Linkedin: isoteriksoftware](https://www.linkedin.com/in/isoteriksoftware/)
+- 📫 How to reach me: [[Linkedin: isoteriksoftware](https://www.linkedin.com/in/isoteriksoftware/)]
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I play games a lot and when I'm not playing one, I'm making one!
 
