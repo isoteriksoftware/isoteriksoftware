@@ -48,12 +48,12 @@
 <a href="https://github.com/isoteriksoftware">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isoteriksoftware&theme=nightowl&hide_langs_below=1" />
 </a>
-<a href="https://github.com/ayosol">
+<a href="https://github.com/isoteriksoftware">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isoteriksoftware&theme=algolia&show_icons=true&line_height=27&count_private=true" alt="Imran's github stats"/>
 </a>
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of my open source libraries!
 
 </div>
