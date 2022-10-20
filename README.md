@@ -54,6 +54,4 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of my open source libraries!
-
 </div>
