@@ -21,8 +21,8 @@
 <br/>
 <br/>
 
-- 🌱 I currently work with Flutter, React, JavaScript, Java, Solidity, Node.js, libGDX, Racken etc
-- 👯 I’m looking to collaborate on any interesting blockchain (DeFi) project.
+- 🌱 I currently work with Flutter, React, Typescript, Java, Solidity, Node.js, Unity, Unreal 5, etc.
+- 👯 I’m looking to collaborate on any interesting game project.
 - 💬 Ask me about Full Stack Software Engineering.
 - 📫 How to reach me: [[Linkedin: isoteriksoftware](https://www.linkedin.com/in/isoteriksoftware/)]
 - 😄 Pronouns: He/His/Him
