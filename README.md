@@ -45,13 +45,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>    
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isoteriksoftware&theme=nightowl&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+
+<br/>
+
+<div>
+  <a href="https://github.com/isoteriksoftware">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=isoteriksoftware&theme=nightowl&show_icons=true&line_height=27&count_private=true" alt="Imran's github stats"/>
+</a>
+</div>
+
+<br/>
+
 <a href="https://github.com/isoteriksoftware">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isoteriksoftware&theme=nightowl&hide_langs_below=1" />
 </a>
-<a href="https://github.com/isoteriksoftware">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=isoteriksoftware&theme=algolia&show_icons=true&line_height=27&count_private=true" alt="Imran's github stats"/>
-</a>
-
-<div align="center">
-
-</div>
