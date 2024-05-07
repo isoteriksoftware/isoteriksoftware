@@ -11,7 +11,7 @@
 <a href="https://t.me/deemaartian">
   <img align="left" alt="Imran's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/deemaartian/">
+<a href="https://instagram.com/emris_codex/">
   <img align="left" alt="Imran's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/pro.imran.abdulmalik/">
@@ -21,8 +21,8 @@
 <br/>
 <br/>
 
-- 🌱 I currently work with Flutter, React, Typescript, Java, Solidity, Node.js, Unity, Unreal 5, etc.
-- 👯 I’m looking to collaborate on any interesting game project.
+- 🌱 I currently work with React, Typescript, Java, Solidity, Node.js, Unity, etc.
+- 👯 I’m looking to collaborate on any interesting web3 project.
 - 💬 Ask me about Full Stack Software Engineering.
 - 📫 How to reach me: [[Linkedin: isoteriksoftware](https://www.linkedin.com/in/isoteriksoftware/)]
 - 😄 Pronouns: He/His/Him
